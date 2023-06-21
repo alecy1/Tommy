@@ -1,6 +1,6 @@
-How to create Tommy's website?
+# How to create Tommy's website?
 I want to build a Tommy website fully with React, start a new React project.
-Next steps
+# Next steps
 Installing React
   •	npx create-react-app tommy
   •	cd Tommy
