@@ -1,11 +1,11 @@
 export const imagenes = [
    
-    {id:'1',name:'Bengala',src:'/bengala/bengala12.png'},
-    {id:'1a',name:'Bengala',src:'/bengala/bengala11.png'},
-    {id:'1e',name:'Bengala',src:'/bengala/bengala10.png'},
-    {id:'1b',name:'Bengala',src:'/bengala/bengala13.png'},
-    {id:'1c',name:'Bengala',src:'/bengala/bengala14.png'},
-    {id:'1d',name:'Bengala',src:'/bengala/bengala15.png'}, 
+    {id:'1',name:'Bengala',src:'./bengala/bengala12.png'},
+    {id:'1a',name:'Bengala',src:'./bengala/bengala11.png'},
+    {id:'1e',name:'Bengala',src:'./bengala/bengala10.png'},
+    {id:'1b',name:'Bengala',src:'./bengala/bengala13.png'},
+    {id:'1c',name:'Bengala',src:'./bengala/bengala14.png'},
+    {id:'1d',name:'Bengala',src:'./bengala/bengala15.png'}, 
     
   
     
