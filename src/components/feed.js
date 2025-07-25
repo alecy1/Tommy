@@ -22,7 +22,7 @@ const comidaDeGato= [
       title:'RAZA GATO PESCADO 10KG',
       descripcion:'Elaborado para satisfacer el fino paladar de los felinos, el alimento balanceado para gatos sabor pescado ofrece a tu mascota todo lo que necesita.',
       precio :'$14.990',
-      imagen: 'raza_gato.jpg',
+      imagen: './raza_gato.jpg',
       nameImagen: 'Raza'
     }
 ];
